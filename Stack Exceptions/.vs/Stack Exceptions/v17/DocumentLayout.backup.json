@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\Stack Exceptions\\",
+  "WorkspaceRootPath": "D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B191C1BA-2AF5-409B-A23F-4096BACCE42F}|Stack Exceptions\\Stack Exceptions.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\Stack Exceptions\\Stack Exceptions\\Stack Exceptions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1C627D98-C79A-43DD-809A-090892D9F137}|Stack Exceptions with fstream\\Stack Exceptions with fstream.vcxproj|D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\Stack Exceptions with fstream\\Stack Exceptions with fstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C627D98-C79A-43DD-809A-090892D9F137}|Stack Exceptions with fstream\\Stack Exceptions with fstream.vcxproj|solutionrelative:Stack Exceptions with fstream\\Stack Exceptions with fstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B191C1BA-2AF5-409B-A23F-4096BACCE42F}|Stack Exceptions\\Stack Exceptions.vcxproj|D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\Stack Exceptions\\Stack Exceptions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B191C1BA-2AF5-409B-A23F-4096BACCE42F}|Stack Exceptions\\Stack Exceptions.vcxproj|solutionrelative:Stack Exceptions\\Stack Exceptions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Stack Exceptions with fstream.cpp",
+              "DocumentMoniker": "D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\Stack Exceptions with fstream\\Stack Exceptions with fstream.cpp",
+              "RelativeDocumentMoniker": "Stack Exceptions with fstream\\Stack Exceptions with fstream.cpp",
+              "ToolTip": "D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\Stack Exceptions with fstream\\Stack Exceptions with fstream.cpp*",
+              "RelativeToolTip": "Stack Exceptions with fstream\\Stack Exceptions with fstream.cpp*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T11:20:31.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Stack Exceptions.cpp",
-              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\Stack Exceptions\\Stack Exceptions\\Stack Exceptions.cpp",
+              "DocumentMoniker": "D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\Stack Exceptions\\Stack Exceptions.cpp",
               "RelativeDocumentMoniker": "Stack Exceptions\\Stack Exceptions.cpp",
-              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\Stack Exceptions\\Stack Exceptions\\Stack Exceptions.cpp*",
-              "RelativeToolTip": "Stack Exceptions\\Stack Exceptions.cpp*",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAwwG4AAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Repos\\CPlusPlus-ITStep-HW\\Stack Exceptions\\Stack Exceptions\\Stack Exceptions.cpp",
+              "RelativeToolTip": "Stack Exceptions\\Stack Exceptions.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAADwv5IAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-16T10:51:34.283Z",
               "EditorCaption": ""

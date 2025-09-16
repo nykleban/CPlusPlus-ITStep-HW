@@ -1,0 +1,4 @@
+﻿  sort2.cpp
+C:\Users\Nazar\Desktop\cpp files\sorts and ponter\sort2\sort2.cpp(46,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nazar\Desktop\cpp files\sorts and ponter\sort2\sort2.cpp(26,1): warning C4715: 'findNegative': not all control paths return a value
+  sort2.vcxproj -> C:\Users\Nazar\Desktop\cpp files\sorts and ponter\x64\Debug\sort2.exe

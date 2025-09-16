@@ -1,0 +1,5 @@
+﻿  library.cpp
+C:\Users\Nazar\Desktop\cpp files\Library struct\library\library.cpp(95,70): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Nazar\Desktop\cpp files\Library struct\library\library.cpp(98,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Nazar\Desktop\cpp files\Library struct\library\library.cpp(99,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+  library.vcxproj -> C:\Users\Nazar\Desktop\cpp files\Library struct\x64\Debug\library.exe

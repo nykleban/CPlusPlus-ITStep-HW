@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\hip arr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6113CB-E07D-46DD-87A8-9958E8DB0479}|hip arr\\hip arr.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\hip arr\\hip arr\\hip arr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE6113CB-E07D-46DD-87A8-9958E8DB0479}|hip arr\\hip arr.vcxproj|solutionrelative:hip arr\\hip arr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hip arr.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\hip arr\\hip arr\\hip arr.cpp",
+              "RelativeDocumentMoniker": "hip arr\\hip arr.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\hip arr\\hip arr\\hip arr.cpp",
+              "RelativeToolTip": "hip arr\\hip arr.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T08:15:13.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

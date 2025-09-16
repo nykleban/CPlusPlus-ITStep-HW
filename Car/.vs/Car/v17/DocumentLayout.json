@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209B3270-269B-4E3C-A7F2-ED2452D666AC}|Car\\Car.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\Car\\Car\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209B3270-269B-4E3C-A7F2-ED2452D666AC}|Car\\Car.vcxproj|solutionrelative:Car\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\Car\\Car\\Car.cpp",
+              "RelativeDocumentMoniker": "Car\\Car.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\Car\\Car\\Car.cpp",
+              "RelativeToolTip": "Car\\Car.cpp",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAALUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T08:10:56.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

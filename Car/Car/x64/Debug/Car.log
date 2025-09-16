@@ -1,0 +1,5 @@
+﻿  Car.cpp
+C:\Users\Nazar\Desktop\cpp files\Car\Car\Car.cpp(112,1): warning C4715: 'Body::getMaterial': not all control paths return a value
+C:\Users\Nazar\Desktop\cpp files\Car\Car\Car.cpp(69,1): warning C4715: 'Headlight::getColor': not all control paths return a value
+C:\Users\Nazar\Desktop\cpp files\Car\Car\Car.cpp(40,1): warning C4715: 'Door::getType': not all control paths return a value
+  Car.vcxproj -> C:\Users\Nazar\Desktop\cpp files\Car\x64\Debug\Car.exe

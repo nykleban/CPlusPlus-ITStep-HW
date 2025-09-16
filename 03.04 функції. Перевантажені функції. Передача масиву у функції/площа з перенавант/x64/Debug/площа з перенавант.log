@@ -1,0 +1,4 @@
+﻿  площа з перенавант.cpp
+C:\Users\Nazar\Desktop\cpp files\03.04 функції. Перевантажені функції. Передача масиву у функції\площа з перенавант\площа з перенавант.cpp(11,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nazar\Desktop\cpp files\03.04 функції. Перевантажені функції. Передача масиву у функції\площа з перенавант\площа з перенавант.cpp(24,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  площа з перенавант.vcxproj -> C:\Users\Nazar\Desktop\cpp files\03.04 функції. Перевантажені функції. Передача масиву у функції\x64\Debug\площа з перенавант.exe

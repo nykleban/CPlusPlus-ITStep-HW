@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F77B803-715D-47BD-BB9C-BCE39F64347F}|task 4 matrix\\task 4 matrix.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\task 4 matrix\\task 4 matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F77B803-715D-47BD-BB9C-BCE39F64347F}|task 4 matrix\\task 4 matrix.vcxproj|solutionrelative:task 4 matrix\\task 4 matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240E5529-28A1-4AFB-B7FA-AFF3DCDE10F2}|task 1-3\\task 1-3.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\task 1-3\\task 1-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{240E5529-28A1-4AFB-B7FA-AFF3DCDE10F2}|task 1-3\\task 1-3.vcxproj|solutionrelative:task 1-3\\task 1-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task 4 matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\task 4 matrix\\task 4 matrix.cpp",
+              "RelativeDocumentMoniker": "task 4 matrix\\task 4 matrix.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\task 4 matrix\\task 4 matrix.cpp",
+              "RelativeToolTip": "task 4 matrix\\task 4 matrix.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T16:06:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task 1-3.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\task 1-3\\task 1-3.cpp",
+              "RelativeDocumentMoniker": "task 1-3\\task 1-3.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\task 1-3\\task 1-3.cpp",
+              "RelativeToolTip": "task 1-3\\task 1-3.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T14:52:53.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Nazar\Desktop\cpp files\шаблони та сортування\завдання 2\ConsoleApplication1\ConsoleApplication1.cpp(56,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nazar\Desktop\cpp files\шаблони та сортування\завдання 2\ConsoleApplication1\ConsoleApplication1.cpp(57,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nazar\Desktop\cpp files\шаблони та сортування\завдання 2\ConsoleApplication1\ConsoleApplication1.cpp(58,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nazar\Desktop\cpp files\шаблони та сортування\завдання 2\ConsoleApplication1\ConsoleApplication1.cpp(60,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Nazar\Desktop\cpp files\шаблони та сортування\завдання 2\x64\Debug\ConsoleApplication1.exe

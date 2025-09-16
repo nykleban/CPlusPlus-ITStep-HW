@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DCC0F8-C93A-4B59-824F-3180EAF40BAD}|Queue\\Queue.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5DCC0F8-C93A-4B59-824F-3180EAF40BAD}|Queue\\Queue.vcxproj|solutionrelative:Queue\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A6ED01-0FA8-4067-A620-6CE217EF0F67}|Stack hip\\Stack hip.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Stack hip\\Stack hip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31A6ED01-0FA8-4067-A620-6CE217EF0F67}|Stack hip\\Stack hip.vcxproj|solutionrelative:Stack hip\\Stack hip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7332B604-E564-4F2E-B958-F9BDFAE6C1B9}|Stack\\Stack.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7332B604-E564-4F2E-B958-F9BDFAE6C1B9}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Queue\\Queue.cpp",
+              "RelativeDocumentMoniker": "Queue\\Queue.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Queue\\Queue.cpp",
+              "RelativeToolTip": "Queue\\Queue.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T18:31:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack hip.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Stack hip\\Stack hip.cpp",
+              "RelativeDocumentMoniker": "Stack hip\\Stack hip.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Stack hip\\Stack hip.cpp",
+              "RelativeToolTip": "Stack hip\\Stack hip.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-12T09:05:03.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Stack\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack\\Stack.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\Dynamic Data Structures. Stack. Queue\\Stack\\Stack.cpp",
+              "RelativeToolTip": "Stack\\Stack.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-12T08:42:29.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

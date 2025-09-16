@@ -1,0 +1,3 @@
+﻿  1 try.cpp
+C:\Users\Nazar\Desktop\cpp files\projects\Project1\1 try.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : fatal error LNK1168: cannot open C:\Users\Nazar\Desktop\cpp files\projects\x64\Debug\Project1.exe for writing

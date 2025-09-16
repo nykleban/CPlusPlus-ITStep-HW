@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90889EE0-A4A5-4954-9B71-D6B9EC53C5C8}|struct dod\\struct dod.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\struct dod\\struct dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90889EE0-A4A5-4954-9B71-D6B9EC53C5C8}|struct dod\\struct dod.vcxproj|solutionrelative:struct dod\\struct dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053009BA-9430-4C1B-93E5-81D3167A096C}|struct\\struct.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\struct\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{053009BA-9430-4C1B-93E5-81D3167A096C}|struct\\struct.vcxproj|solutionrelative:struct\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "struct dod.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\struct dod\\struct dod.cpp",
+              "RelativeDocumentMoniker": "struct dod\\struct dod.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\struct dod\\struct dod.cpp*",
+              "RelativeToolTip": "struct dod\\struct dod.cpp*",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAKEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T06:12:47.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "struct.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\struct\\struct.cpp",
+              "RelativeDocumentMoniker": "struct\\struct.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\\u0448\u0430\u0431\u043B\u043E\u043D\u0438 \u0442\u0430 \u0441\u043E\u0440\u0442\u0443\u0432\u0430\u043D\u043D\u044F\\struct\\struct\\struct.cpp",
+              "RelativeToolTip": "struct\\struct.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T05:51:50.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

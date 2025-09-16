@@ -1,0 +1,3 @@
+﻿  sorts.cpp
+C:\Users\Nazar\Desktop\cpp files\sorts and ponter\sorts\sorts.cpp(29,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sorts.vcxproj -> C:\Users\Nazar\Desktop\cpp files\sorts and ponter\x64\Debug\sorts.exe

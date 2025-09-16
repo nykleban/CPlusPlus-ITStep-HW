@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB925D5-18A7-47A6-A5FA-25154CC1BEB3}|sort3\\sort3.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sort3\\sort3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEB925D5-18A7-47A6-A5FA-25154CC1BEB3}|sort3\\sort3.vcxproj|solutionrelative:sort3\\sort3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAAA9A8-B2E2-433C-B8E7-2035E55B2ABD}|sort2\\sort2.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sort2\\sort2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BAAA9A8-B2E2-433C-B8E7-2035E55B2ABD}|sort2\\sort2.vcxproj|solutionrelative:sort2\\sort2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C97778A-5040-4D31-87A9-84C2424C4467}|sorts\\sorts.vcxproj|C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sorts\\sorts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C97778A-5040-4D31-87A9-84C2424C4467}|sorts\\sorts.vcxproj|solutionrelative:sorts\\sorts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sort3.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sort3\\sort3.cpp",
+              "RelativeDocumentMoniker": "sort3\\sort3.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sort3\\sort3.cpp",
+              "RelativeToolTip": "sort3\\sort3.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwFEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:19:42.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sort2.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sort2\\sort2.cpp",
+              "RelativeDocumentMoniker": "sort2\\sort2.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sort2\\sort2.cpp",
+              "RelativeToolTip": "sort2\\sort2.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T06:41:18.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sorts.cpp",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sorts\\sorts.cpp",
+              "RelativeDocumentMoniker": "sorts\\sorts.cpp",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\cpp files\\sorts and ponter\\sorts\\sorts.cpp",
+              "RelativeToolTip": "sorts\\sorts.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T06:30:54.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

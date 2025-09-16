@@ -1,0 +1,3 @@
+﻿  arrays.cpp
+C:\Users\Nazar\Desktop\cpp files\arrays 22.03 CW\arrays\arrays.cpp(54,16): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  arrays.vcxproj -> C:\Users\Nazar\Desktop\cpp files\arrays 22.03 CW\x64\Debug\arrays.exe

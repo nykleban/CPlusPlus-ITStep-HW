@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\CPlusPlus-ITStep-HW\\TEST TETRIC BY GPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C71C9B-9535-4BCF-BFE9-75AD960E1C5D}|TEST TETRIC BY GPT\\TEST TETRIC BY GPT.vcxproj|D:\\Repos\\CPlusPlus-ITStep-HW\\TEST TETRIC BY GPT\\TEST TETRIC BY GPT\\TEST TETRIC BY GPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03C71C9B-9535-4BCF-BFE9-75AD960E1C5D}|TEST TETRIC BY GPT\\TEST TETRIC BY GPT.vcxproj|solutionrelative:TEST TETRIC BY GPT\\TEST TETRIC BY GPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TEST TETRIC BY GPT.cpp",
+              "DocumentMoniker": "D:\\Repos\\CPlusPlus-ITStep-HW\\TEST TETRIC BY GPT\\TEST TETRIC BY GPT\\TEST TETRIC BY GPT.cpp",
+              "RelativeDocumentMoniker": "TEST TETRIC BY GPT\\TEST TETRIC BY GPT.cpp",
+              "ToolTip": "D:\\Repos\\CPlusPlus-ITStep-HW\\TEST TETRIC BY GPT\\TEST TETRIC BY GPT\\TEST TETRIC BY GPT.cpp*",
+              "RelativeToolTip": "TEST TETRIC BY GPT\\TEST TETRIC BY GPT.cpp*",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAWwIwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-28T19:10:38.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

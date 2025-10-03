@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A22A818-A26C-47EA-94C3-10AF2DF6D9E0}|Pizzeria Final Project\\Pizzeria Final Project.vcxproj|D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\Pizzeria Final Project\\Pizzeria Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A22A818-A26C-47EA-94C3-10AF2DF6D9E0}|Pizzeria Final Project\\Pizzeria Final Project.vcxproj|solutionrelative:Pizzeria Final Project\\Pizzeria Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A22A818-A26C-47EA-94C3-10AF2DF6D9E0}|Pizzeria Final Project\\Pizzeria Final Project.vcxproj|D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\Pizzeria Final Project\\db.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A22A818-A26C-47EA-94C3-10AF2DF6D9E0}|Pizzeria Final Project\\Pizzeria Final Project.vcxproj|solutionrelative:Pizzeria Final Project\\db.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "db.txt",
+              "DocumentMoniker": "D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\Pizzeria Final Project\\db.txt",
+              "RelativeDocumentMoniker": "Pizzeria Final Project\\db.txt",
+              "ToolTip": "D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\Pizzeria Final Project\\db.txt",
+              "RelativeToolTip": "Pizzeria Final Project\\db.txt",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-03T14:47:05.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizzeria Final Project.cpp",
+              "DocumentMoniker": "D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\Pizzeria Final Project\\Pizzeria Final Project.cpp",
+              "RelativeDocumentMoniker": "Pizzeria Final Project\\Pizzeria Final Project.cpp",
+              "ToolTip": "D:\\Repos\\CPlusPlus-ITStep-HW\\Pizzeria Final Project\\Pizzeria Final Project\\Pizzeria Final Project.cpp",
+              "RelativeToolTip": "Pizzeria Final Project\\Pizzeria Final Project.cpp",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAowFkBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-01T19:44:56.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

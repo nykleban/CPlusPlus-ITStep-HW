@@ -1,0 +1,101 @@
+PIZZERIA|[ Not Sheet Pizza ]|Independence Ave, 12
+ING|1|Mozzarella|20|50|1
+ING|2|Tomato|8|100|1
+ING|3|Basil|6|40|1
+ING|4|Pepperoni|25|30|1
+ING|5|Mushrooms|12|60|1
+ING|6|Ham|22|25|1
+ING|7|Pineapple|15|20|1
+ING|8|Gorgonzola|30|15|1
+ING|9|Parmesan|28|15|1
+ING|10|Ricotta|26|15|1
+ING|11|Bell Pepper|10|50|1
+ING|12|Olives|14|50|1
+ING|13|Onion|7|80|1
+ING|14|Chicken|24|30|1
+ING|15|Salami|27|30|1
+ING|16|Prosciutto|32|20|1
+ING|17|Arugula|9|40|1
+ING|18|Blue Cheese|29|20|1
+ING|19|BBQ Sauce|11|60|1
+ING|20|Jalapeno|10|50|1
+ING|21|Corn|9|70|1
+ING|22|Tuna|26|25|1
+ING|23|Anchovies|31|15|1
+ING|24|Capers|12|30|1
+ING|25|Shrimp|35|18|1
+ING|26|Bacon|26|35|1
+ING|27|Egg|7|50|1
+ING|28|Truffle Oil|40|10|1
+ING|29|Artichoke|22|25|1
+ING|30|Sun-dried Tomato|18|30|1
+ING|31|Pesto|16|35|1
+ING|32|Spinach|9|45|1
+ING|33|Feta|23|25|1
+ING|34|Cheddar|22|25|1
+ING|35|Sausage|24|30|1
+ING|36|Garlic|5|100|1
+ING|37|Chili Flakes|4|80|1
+ING|38|Honey|12|20|1
+ING|39|Pear|14|20|1
+ING|40|Walnut|16|20|1
+ING|41|Smoked Salmon|38|12|1
+ING|42|Cream Sauce|17|25|1
+ING|43|Maple Syrup|13|20|1
+DR|Cola|0.5|39
+DR|Orange juice|0.33|42
+DR|Mineral water|0.5|25
+DR|Beer|0.5|55
+DR|Wine|0.75|199
+DR|Lemonade|0.33|45
+DR|Grape Soda|0.33|35
+DR|Cherry Cola|0.5|39
+DR|Ginger Ale|0.5|41
+DR|Iced Tea Lemon|0.5|37
+DR|Iced Tea Peach|0.5|37
+DR|Tonic Water|0.33|28
+DR|Apple Juice|0.33|38
+DR|Cold Brew Coffee|0.33|49
+DR|Matcha Lemonade|0.33|55
+DR|Berry Smoothie|0.4|62
+DR|Mango Lassi|0.4|65
+DR|Kombucha Original|0.33|59
+DR|Kombucha Ginger|0.33|59
+DR|Energy Drink Nitro|0.33|52
+DR|Non-Alcoholic Beer|0.5|49
+DR|Sparkling Water|0.5|29
+DR|Still Water Large|1.0|39
+DR|Grapefruit Juice|0.33|42
+DR|Cola Zero|0.5|39
+DR|Vanilla Milkshake|0.4|69
+PZ|Margherita|30|129|Mozzarella,Tomato,Basil
+PZ|Pepperoni|40|179|Mozzarella,Pepperoni
+PZ|Funghi|20|99|Mozzarella,Mushrooms,Tomato
+PZ|Hawaiian|30|145|Mozzarella,Ham,Pineapple
+PZ|Quattro Formaggi|40|189|Mozzarella,Gorgonzola,Parmesan,Ricotta
+PZ|Vegetariana|20|109|Mozzarella,Tomato,Bell Pepper,Olives,Onion
+PZ|Diavola|30|165|Mozzarella,Pepperoni,Jalapeno,Tomato
+PZ|Prosciutto e Rucola|30|189|Mozzarella,Prosciutto,Arugula,Parmesan
+PZ|Quattro Stagioni|40|199|Mozzarella,Ham,Mushrooms,Artichoke,Olives
+PZ|Tonno e Cipolla|30|169|Mozzarella,Tuna,Onion
+PZ|Frutti di Mare|40|229|Mozzarella,Shrimp,Garlic,Capers
+PZ|BBQ Chicken|40|195|Mozzarella,Chicken,BBQ Sauce,Onion
+PZ|Carbonara|30|179|Mozzarella,Bacon,Egg,Parmesan
+PZ|Pesto Pollo|30|189|Mozzarella,Chicken,Pesto,Spinach,Sun-dried Tomato
+PZ|Vegetale Deluxe|40|179|Mozzarella,Bell Pepper,Onion,Mushrooms,Corn,Spinach
+PZ|Tartufo|30|219|Mozzarella,Mushrooms,Truffle Oil,Parmesan
+PZ|Greca|20|135|Mozzarella,Feta,Olives,Onion
+PZ|Formaggi e Pere|30|205|Mozzarella,Gorgonzola,Pear,Walnut,Honey
+PZ|Rustica|30|175|Mozzarella,Sausage,Onion,Bell Pepper
+PZ|Bianca|30|169|Ricotta,Mozzarella,Parmesan,Garlic
+PZ|Calabrese|30|179|Mozzarella,Salami,Chili Flakes,Onion
+PZ|Capricciosa|30|189|Mozzarella,Ham,Mushrooms,Artichoke,Olives
+PZ|Primavera|20|129|Mozzarella,Tomato,Arugula,Spinach,Sun-dried Tomato
+PZ|Al Salmone|30|239|Mozzarella,Smoked Salmon,Cream Sauce,Capers
+PZ|Pesto Veg|30|189|Mozzarella,Pesto,Sun-dried Tomato,Artichoke,Spinach
+PZ|Cheddar Bacon|30|185|Mozzarella,Cheddar,Bacon,Onion
+PZ|Maple Pepperoni|30|189|Mozzarella,Pepperoni,Maple Syrup,Chili Flakes
+PZ|Mediterranea|40|199|Mozzarella,Feta,Olives,Capers,Sun-dried Tomato,Onion
+PZ|Anchovy Classic|20|159|Mozzarella,Anchovies,Capers,Tomato
+PZ|Spinaci e Ricotta|30|175|Mozzarella,Ricotta,Spinach,Garlic
+PZ|Honey Ham|30|179|Mozzarella,Ham,Honey,Onion

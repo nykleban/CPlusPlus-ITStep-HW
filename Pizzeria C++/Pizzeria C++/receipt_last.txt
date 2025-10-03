@@ -1,0 +1,11 @@
+===  [ Not Sheet Pizza ] ===
+Address: Independence Ave, 12
+Cashier: Vasia
+Payment: card
+Date/Time: 03.10.2025 17:15
+1) Vegetariana x3 @109.00 = 327.00 UAH
+2) BABANA JUICE x12 @80.00 = 960.00 UAH
+3) MAMAMIA x4 @104.00 = 416.00 UAH
+Subtotal: 1703.00 UAH
+Total Due: 1703.00 UAH
+Thank you!

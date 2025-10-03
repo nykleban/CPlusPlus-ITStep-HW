@@ -1,0 +1,11 @@
+===  [ Not Sheet Pizza ] ===
+Address: Independence Ave, 12
+Cashier: Vasia
+Payment: card
+Date/Time: 03.10.2025 16:48
+1) Margherita x1 @129.00 = 129.00 UAH
+Subtotal: 129.00 UAH
+Discount: 11.00 UAH
+Delivery: 1.00 UAH
+Total Due: 119.00 UAH
+Thank you!
